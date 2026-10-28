@@ -1,0 +1,7 @@
+{
+  "name": "Teste_firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
